@@ -1,0 +1,6 @@
+framework module Pods_speech_to_text_google {
+  umbrella header "Pods-speech-to-text-google-umbrella.h"
+
+  export *
+  module * { export * }
+}
